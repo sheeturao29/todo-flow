@@ -28,10 +28,8 @@ This app helps you manage tasks efficiently with smooth animations, filters, dar
 
 ## 🚀 Live Demo
 
-🔗 [Visit TodoFlow on Vercel](https://todo-flow-by-sheetal.vercel.app)  
-*(Replace this link after deployment!)*
+🔗 [Visit TodoFlow on Vercel]( https://sheeturao29.github.io/todo-flow/)  
 
----
 
 ## 🛠️ Installation & Setup
 
